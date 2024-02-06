@@ -1,4 +1,4 @@
 file1-1.txt
 this is file1-1
-ok. ok?
+i want to add file to dir2.ok.ok?
 good bye
